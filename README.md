@@ -62,10 +62,9 @@ If you'd like to add your own solutions or improve existing ones (code cleanup, 
 
 ## 💬 Let's Connect!
 
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Link Here]
-- 🐦 Twitter: [Your Twitter Here]
-- 🌐 Portfolio / Blog: [Your Website Here]
+- 📧 Email: killerbee0181@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-fazlul-karim-rafi-53bbbb362/
+- 🌐 Portfolio: https://mkarim.vercel.app/ 
 
 ---
 
