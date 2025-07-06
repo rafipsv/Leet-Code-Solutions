@@ -18,6 +18,7 @@ This repo is a collection of solutions to coding problems from platforms like **
 
 ## 💡 Topics Covered
 
+- ✅ Basics
 - ✅ Array
 - ✅ Two Pointers
 - ✅ Hashing & Maps
